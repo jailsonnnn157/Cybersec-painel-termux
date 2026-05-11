@@ -10,5 +10,5 @@ um painel de cybersecurity red team apenas para termux, com várias ferramentas 
 
 .pkg install python
 
-.git clone https://github.com/jailsonnnn157/Cybersec-painel.git
+.git clone https://github.com/jailsonnnn157/Cybersec-painel-termux.git
 
