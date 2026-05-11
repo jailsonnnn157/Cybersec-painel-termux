@@ -3,7 +3,7 @@ os.system("clear")
 os.system("figlet -f slant Cybersec")
 
 print(f"\t\t\t\t\033[1;35m[v1.0]\033[0m")
-print(f"\t\t\t\t\033[1;35m[By Jailson]\033[0m")
+print(f"\t\t\t\t\033[1;35m[By Jailsonnnn157]\033[0m")
 
 
 
